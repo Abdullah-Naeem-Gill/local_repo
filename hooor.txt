@@ -1,0 +1,7 @@
+Name is: abdullah
+Id is: 5
+Adress  is: lahore
+Contact  is: 2
+Joinning date is: 3
+Weight  is: 23
+Exercise is: pushups
